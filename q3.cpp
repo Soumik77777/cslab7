@@ -37,7 +37,7 @@ void printodd (int  a, int b)
 
 int main()
 
-{
+{Even
 
 	int m;
 	int n;
@@ -50,7 +50,7 @@ int main()
 	if (m>n)
 	{
 		cout << "Type 1 : Even Numbers"<<endl;
-		cout << "Type 2 : Even Numbers"<<endl;
+		cout << "Type 2 : Odd Numbers"<<endl;
 		cin >> o;
 
 		if (o==1)
